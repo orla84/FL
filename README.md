@@ -21,4 +21,6 @@ Assuming you have Anaconda installed, as directed, perform the following operati
 
 `pip install scikit_learn`
 
+`pip install matplotlib`
+
 Now you should be able to open the Anaconda navigator, select the new environment, and install there **Spyder** and **Jupyter notebook**
